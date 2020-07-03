@@ -1,9 +1,9 @@
 # 2020-learning-source
 
-## Laravel 6+
+## Laravel 
 https://ithelp.ithome.com.tw/articles/10214868
 
-## Angular 8+
+## Angular 
 
 ## Docker
 
