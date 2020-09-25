@@ -20,3 +20,4 @@ https://medium.com/@intheblackworld/%E5%89%8D%E7%AB%AF%E6%94%BB%E5%9F%8E%E8%A9%A
 
 ## CSS3 -webkit-min-device-pixel-ratio
 https://stackoverflow.com/questions/9437584/what-does-webkit-min-device-pixel-ratio-2-stand-for
+(good) https://stackoverflow.com/questions/8785643/what-exactly-is-device-pixel-ratio
